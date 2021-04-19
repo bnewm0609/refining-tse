@@ -1,0 +1,140 @@
+{"sentence_good": "the authors laugh", "sentence_bad": "the authors laughs", "label": -2}
+{"sentence_good": "the authors swim", "sentence_bad": "the authors swims", "label": -2}
+{"sentence_good": "the authors smile", "sentence_bad": "the authors smiles", "label": -2}
+{"sentence_good": "the authors are tall", "sentence_bad": "the authors is tall", "label": -2}
+{"sentence_good": "the authors are old", "sentence_bad": "the authors is old", "label": -2}
+{"sentence_good": "the authors are young", "sentence_bad": "the authors is young", "label": -2}
+{"sentence_good": "the authors are short", "sentence_bad": "the authors is short", "label": -2}
+{"sentence_good": "the pilots laugh", "sentence_bad": "the pilots laughs", "label": -2}
+{"sentence_good": "the pilots swim", "sentence_bad": "the pilots swims", "label": -2}
+{"sentence_good": "the pilots smile", "sentence_bad": "the pilots smiles", "label": -2}
+{"sentence_good": "the pilots are tall", "sentence_bad": "the pilots is tall", "label": -2}
+{"sentence_good": "the pilots are old", "sentence_bad": "the pilots is old", "label": -2}
+{"sentence_good": "the pilots are young", "sentence_bad": "the pilots is young", "label": -2}
+{"sentence_good": "the pilots are short", "sentence_bad": "the pilots is short", "label": -2}
+{"sentence_good": "the surgeons laugh", "sentence_bad": "the surgeons laughs", "label": -2}
+{"sentence_good": "the surgeons swim", "sentence_bad": "the surgeons swims", "label": -2}
+{"sentence_good": "the surgeons smile", "sentence_bad": "the surgeons smiles", "label": -2}
+{"sentence_good": "the surgeons are tall", "sentence_bad": "the surgeons is tall", "label": -2}
+{"sentence_good": "the surgeons are old", "sentence_bad": "the surgeons is old", "label": -2}
+{"sentence_good": "the surgeons are young", "sentence_bad": "the surgeons is young", "label": -2}
+{"sentence_good": "the surgeons are short", "sentence_bad": "the surgeons is short", "label": -2}
+{"sentence_good": "the farmers laugh", "sentence_bad": "the farmers laughs", "label": -2}
+{"sentence_good": "the farmers swim", "sentence_bad": "the farmers swims", "label": -2}
+{"sentence_good": "the farmers smile", "sentence_bad": "the farmers smiles", "label": -2}
+{"sentence_good": "the farmers are tall", "sentence_bad": "the farmers is tall", "label": -2}
+{"sentence_good": "the farmers are old", "sentence_bad": "the farmers is old", "label": -2}
+{"sentence_good": "the farmers are young", "sentence_bad": "the farmers is young", "label": -2}
+{"sentence_good": "the farmers are short", "sentence_bad": "the farmers is short", "label": -2}
+{"sentence_good": "the managers laugh", "sentence_bad": "the managers laughs", "label": -2}
+{"sentence_good": "the managers swim", "sentence_bad": "the managers swims", "label": -2}
+{"sentence_good": "the managers smile", "sentence_bad": "the managers smiles", "label": -2}
+{"sentence_good": "the managers are tall", "sentence_bad": "the managers is tall", "label": -2}
+{"sentence_good": "the managers are old", "sentence_bad": "the managers is old", "label": -2}
+{"sentence_good": "the managers are young", "sentence_bad": "the managers is young", "label": -2}
+{"sentence_good": "the managers are short", "sentence_bad": "the managers is short", "label": -2}
+{"sentence_good": "the customers laugh", "sentence_bad": "the customers laughs", "label": -2}
+{"sentence_good": "the customers swim", "sentence_bad": "the customers swims", "label": -2}
+{"sentence_good": "the customers smile", "sentence_bad": "the customers smiles", "label": -2}
+{"sentence_good": "the customers are tall", "sentence_bad": "the customers is tall", "label": -2}
+{"sentence_good": "the customers are old", "sentence_bad": "the customers is old", "label": -2}
+{"sentence_good": "the customers are young", "sentence_bad": "the customers is young", "label": -2}
+{"sentence_good": "the customers are short", "sentence_bad": "the customers is short", "label": -2}
+{"sentence_good": "the officers laugh", "sentence_bad": "the officers laughs", "label": -2}
+{"sentence_good": "the officers swim", "sentence_bad": "the officers swims", "label": -2}
+{"sentence_good": "the officers smile", "sentence_bad": "the officers smiles", "label": -2}
+{"sentence_good": "the officers are tall", "sentence_bad": "the officers is tall", "label": -2}
+{"sentence_good": "the officers are old", "sentence_bad": "the officers is old", "label": -2}
+{"sentence_good": "the officers are young", "sentence_bad": "the officers is young", "label": -2}
+{"sentence_good": "the officers are short", "sentence_bad": "the officers is short", "label": -2}
+{"sentence_good": "the teachers laugh", "sentence_bad": "the teachers laughs", "label": -2}
+{"sentence_good": "the teachers swim", "sentence_bad": "the teachers swims", "label": -2}
+{"sentence_good": "the teachers smile", "sentence_bad": "the teachers smiles", "label": -2}
+{"sentence_good": "the teachers are tall", "sentence_bad": "the teachers is tall", "label": -2}
+{"sentence_good": "the teachers are old", "sentence_bad": "the teachers is old", "label": -2}
+{"sentence_good": "the teachers are young", "sentence_bad": "the teachers is young", "label": -2}
+{"sentence_good": "the teachers are short", "sentence_bad": "the teachers is short", "label": -2}
+{"sentence_good": "the senators laugh", "sentence_bad": "the senators laughs", "label": -2}
+{"sentence_good": "the senators swim", "sentence_bad": "the senators swims", "label": -2}
+{"sentence_good": "the senators smile", "sentence_bad": "the senators smiles", "label": -2}
+{"sentence_good": "the senators are tall", "sentence_bad": "the senators is tall", "label": -2}
+{"sentence_good": "the senators are old", "sentence_bad": "the senators is old", "label": -2}
+{"sentence_good": "the senators are young", "sentence_bad": "the senators is young", "label": -2}
+{"sentence_good": "the senators are short", "sentence_bad": "the senators is short", "label": -2}
+{"sentence_good": "the consultants laugh", "sentence_bad": "the consultants laughs", "label": -2}
+{"sentence_good": "the consultants swim", "sentence_bad": "the consultants swims", "label": -2}
+{"sentence_good": "the consultants smile", "sentence_bad": "the consultants smiles", "label": -2}
+{"sentence_good": "the consultants are tall", "sentence_bad": "the consultants is tall", "label": -2}
+{"sentence_good": "the consultants are old", "sentence_bad": "the consultants is old", "label": -2}
+{"sentence_good": "the consultants are young", "sentence_bad": "the consultants is young", "label": -2}
+{"sentence_good": "the consultants are short", "sentence_bad": "the consultants is short", "label": -2}
+{"sentence_good": "the author laughs", "sentence_bad": "the author laugh", "label": -1}
+{"sentence_good": "the author swims", "sentence_bad": "the author swim", "label": -1}
+{"sentence_good": "the author smiles", "sentence_bad": "the author smile", "label": -1}
+{"sentence_good": "the author is tall", "sentence_bad": "the author are tall", "label": -1}
+{"sentence_good": "the author is old", "sentence_bad": "the author are old", "label": -1}
+{"sentence_good": "the author is young", "sentence_bad": "the author are young", "label": -1}
+{"sentence_good": "the author is short", "sentence_bad": "the author are short", "label": -1}
+{"sentence_good": "the pilot laughs", "sentence_bad": "the pilot laugh", "label": -1}
+{"sentence_good": "the pilot swims", "sentence_bad": "the pilot swim", "label": -1}
+{"sentence_good": "the pilot smiles", "sentence_bad": "the pilot smile", "label": -1}
+{"sentence_good": "the pilot is tall", "sentence_bad": "the pilot are tall", "label": -1}
+{"sentence_good": "the pilot is old", "sentence_bad": "the pilot are old", "label": -1}
+{"sentence_good": "the pilot is young", "sentence_bad": "the pilot are young", "label": -1}
+{"sentence_good": "the pilot is short", "sentence_bad": "the pilot are short", "label": -1}
+{"sentence_good": "the surgeon laughs", "sentence_bad": "the surgeon laugh", "label": -1}
+{"sentence_good": "the surgeon swims", "sentence_bad": "the surgeon swim", "label": -1}
+{"sentence_good": "the surgeon smiles", "sentence_bad": "the surgeon smile", "label": -1}
+{"sentence_good": "the surgeon is tall", "sentence_bad": "the surgeon are tall", "label": -1}
+{"sentence_good": "the surgeon is old", "sentence_bad": "the surgeon are old", "label": -1}
+{"sentence_good": "the surgeon is young", "sentence_bad": "the surgeon are young", "label": -1}
+{"sentence_good": "the surgeon is short", "sentence_bad": "the surgeon are short", "label": -1}
+{"sentence_good": "the farmer laughs", "sentence_bad": "the farmer laugh", "label": -1}
+{"sentence_good": "the farmer swims", "sentence_bad": "the farmer swim", "label": -1}
+{"sentence_good": "the farmer smiles", "sentence_bad": "the farmer smile", "label": -1}
+{"sentence_good": "the farmer is tall", "sentence_bad": "the farmer are tall", "label": -1}
+{"sentence_good": "the farmer is old", "sentence_bad": "the farmer are old", "label": -1}
+{"sentence_good": "the farmer is young", "sentence_bad": "the farmer are young", "label": -1}
+{"sentence_good": "the farmer is short", "sentence_bad": "the farmer are short", "label": -1}
+{"sentence_good": "the manager laughs", "sentence_bad": "the manager laugh", "label": -1}
+{"sentence_good": "the manager swims", "sentence_bad": "the manager swim", "label": -1}
+{"sentence_good": "the manager smiles", "sentence_bad": "the manager smile", "label": -1}
+{"sentence_good": "the manager is tall", "sentence_bad": "the manager are tall", "label": -1}
+{"sentence_good": "the manager is old", "sentence_bad": "the manager are old", "label": -1}
+{"sentence_good": "the manager is young", "sentence_bad": "the manager are young", "label": -1}
+{"sentence_good": "the manager is short", "sentence_bad": "the manager are short", "label": -1}
+{"sentence_good": "the customer laughs", "sentence_bad": "the customer laugh", "label": -1}
+{"sentence_good": "the customer swims", "sentence_bad": "the customer swim", "label": -1}
+{"sentence_good": "the customer smiles", "sentence_bad": "the customer smile", "label": -1}
+{"sentence_good": "the customer is tall", "sentence_bad": "the customer are tall", "label": -1}
+{"sentence_good": "the customer is old", "sentence_bad": "the customer are old", "label": -1}
+{"sentence_good": "the customer is young", "sentence_bad": "the customer are young", "label": -1}
+{"sentence_good": "the customer is short", "sentence_bad": "the customer are short", "label": -1}
+{"sentence_good": "the officer laughs", "sentence_bad": "the officer laugh", "label": -1}
+{"sentence_good": "the officer swims", "sentence_bad": "the officer swim", "label": -1}
+{"sentence_good": "the officer smiles", "sentence_bad": "the officer smile", "label": -1}
+{"sentence_good": "the officer is tall", "sentence_bad": "the officer are tall", "label": -1}
+{"sentence_good": "the officer is old", "sentence_bad": "the officer are old", "label": -1}
+{"sentence_good": "the officer is young", "sentence_bad": "the officer are young", "label": -1}
+{"sentence_good": "the officer is short", "sentence_bad": "the officer are short", "label": -1}
+{"sentence_good": "the teacher laughs", "sentence_bad": "the teacher laugh", "label": -1}
+{"sentence_good": "the teacher swims", "sentence_bad": "the teacher swim", "label": -1}
+{"sentence_good": "the teacher smiles", "sentence_bad": "the teacher smile", "label": -1}
+{"sentence_good": "the teacher is tall", "sentence_bad": "the teacher are tall", "label": -1}
+{"sentence_good": "the teacher is old", "sentence_bad": "the teacher are old", "label": -1}
+{"sentence_good": "the teacher is young", "sentence_bad": "the teacher are young", "label": -1}
+{"sentence_good": "the teacher is short", "sentence_bad": "the teacher are short", "label": -1}
+{"sentence_good": "the senator laughs", "sentence_bad": "the senator laugh", "label": -1}
+{"sentence_good": "the senator swims", "sentence_bad": "the senator swim", "label": -1}
+{"sentence_good": "the senator smiles", "sentence_bad": "the senator smile", "label": -1}
+{"sentence_good": "the senator is tall", "sentence_bad": "the senator are tall", "label": -1}
+{"sentence_good": "the senator is old", "sentence_bad": "the senator are old", "label": -1}
+{"sentence_good": "the senator is young", "sentence_bad": "the senator are young", "label": -1}
+{"sentence_good": "the senator is short", "sentence_bad": "the senator are short", "label": -1}
+{"sentence_good": "the consultant laughs", "sentence_bad": "the consultant laugh", "label": -1}
+{"sentence_good": "the consultant swims", "sentence_bad": "the consultant swim", "label": -1}
+{"sentence_good": "the consultant smiles", "sentence_bad": "the consultant smile", "label": -1}
+{"sentence_good": "the consultant is tall", "sentence_bad": "the consultant are tall", "label": -1}
+{"sentence_good": "the consultant is old", "sentence_bad": "the consultant are old", "label": -1}
+{"sentence_good": "the consultant is young", "sentence_bad": "the consultant are young", "label": -1}
+{"sentence_good": "the consultant is short", "sentence_bad": "the consultant are short", "label": -1}

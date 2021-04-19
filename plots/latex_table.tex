@@ -1,0 +1,17 @@
+\begin{tabular}{c | ccc | ccc | ccc | ccc }
+\toprule
+Templates & \multicolumn{3}{c}{BERT cased (large)}& \multicolumn{3}{|c}{BERT uncased (large)}& \multicolumn{3}{|c}{GPT2 (XL)}& \multicolumn{3}{|c}{RoBERTa (large)}\\
+& MW & EW & TSE & MW & EW & TSE & MW & EW & TSE & MW & EW & TSE \\
+\midrule
+Simple & \textit{0.99}& 0.94 & \textbf{1.00} & \textit{0.98}& 0.90 & \textbf{1.00} & \textit{0.90}& 0.86 & \textbf{1.00} & \textit{0.98}& 0.93 & \textbf{1.00} \\
+In a sentential complement & \textit{0.92}& 0.67 & \textbf{0.89} & \textit{0.92}& 0.60 & \textbf{0.86} & \textit{0.96}& 0.65 & \textbf{0.89} & \textit{0.92}& 0.67 & \textbf{0.88} \\
+VP coordination & \textit{0.91}& 0.89 & \textbf{0.90} & \textit{0.93}& \textbf{0.90} & \textbf{0.90} & \textit{0.89}& 0.87 & \textbf{0.97} & \textit{0.93}& 0.90 & \textbf{0.93} \\
+Across prepositional phrase & \textit{0.91}& 0.83 & \textbf{0.93} & \textit{0.83}& 0.75 & \textbf{0.85} & \textit{0.84}& 0.76 & \textbf{0.96} & \textit{0.87}& 0.83 & \textbf{0.89} \\
+Across subject relative clause & \textit{0.87}& \textbf{0.84} & \textbf{0.84} & \textit{0.88}& 0.84 & \textbf{0.85} & \textit{0.82}& 0.77 & \textbf{0.97} & \textit{0.76}& 0.72 & \textbf{0.80} \\
+Across object relative clause & \textit{0.91}& 0.88 & \textbf{0.91} & \textit{0.86}& 0.80 & \textbf{0.85} & \textit{0.95}& 0.89 & \textbf{0.99} & \textit{0.88}& 0.85 & \textbf{0.91} \\
+Across object relative (no that) & \textit{0.92}& 0.88 & \textbf{0.90} & \textit{0.79}& 0.72 & \textbf{0.81} & \textit{0.95}& 0.89 & \textbf{0.99} & \textit{0.86}& 0.82 & \textbf{0.89} \\
+In object relative clause & \textit{0.93}& 0.95 & \textbf{0.97} & \textit{0.95}& 0.97 & \textbf{0.99} & \textit{0.91}& 0.88 & \textbf{0.98} & \textit{0.89}& 0.91 & \textbf{0.97} \\
+In object relative (no that) & \textit{0.90}& 0.91 & \textbf{0.92} & \textit{0.81}& \textbf{0.82} & \textbf{0.82} & \textit{0.91}& 0.88 & \textbf{0.97} & \textit{0.82}& 0.83 & \textbf{0.90} \\
+BLiMP & \textit{0.81}& 0.73 & \textbf{0.90} & \textit{0.78}& 0.69 & \textbf{0.85} & \textit{0.82}& 0.75 & \textbf{0.91} & \textit{0.70}& 0.66 & \textbf{0.78} \\
+\bottomrule
+\end{tabular}

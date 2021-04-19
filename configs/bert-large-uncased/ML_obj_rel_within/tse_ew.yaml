@@ -1,0 +1,47 @@
+dataset:
+  add_trailing_period: true
+  capitalize_first_word: false
+  max_examples_per_template: null
+  name: custom
+  template_dir: data/ML
+  template_files:
+  - obj_rel_within_anim_all.jsonl
+  - obj_rel_within_inanim_all.jsonl
+experiment:
+  max_examples: null
+logger:
+  path: results/bert-large-uncased/ML_obj_rel_within/tse_ew
+  print_metrics_to_general_log: false
+  print_to_stdout: false
+metrics:
+  ML:
+    example_aggregator: mean
+    use_custom_dataset: true
+  main:
+    cutoffs_bot:
+    - 0.5
+    - 0.1
+    - 0.01
+    - 0.001
+    - 0.0001
+    - 1.0e-05
+    - 1.0e-06
+    cutoffs_top:
+    - 0.1
+    - 0.2
+    - 0.3
+    - 0.4
+    - 0.5
+    - 0.6
+    - 0.7
+    - 0.8
+    - 0.9
+    - 0.95
+    - 0.97
+    - 1.0
+    example_aggregator: mean
+    lemma_inflections_path: data/verbs/combined_verb_list.csv
+    use_custom_dataset: true
+    use_equal_verb_voting: true
+model:
+  name: bert-large-uncased

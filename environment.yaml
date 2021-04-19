@@ -1,0 +1,16 @@
+name: refining-tse
+channels:
+  - defaults
+  - anaconda
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.8
+  - numpy=1.19.2
+  - pytorch=1.8.0
+  - torchvision=0.9.0
+  - pyyaml=5.3.1
+  - pip=21.0.1
+  - pip:
+    - transformers==4.4.1
+    - matplotlib==3.4.0
