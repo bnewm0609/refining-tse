@@ -2,6 +2,10 @@
 
 Benjamin Newman, Kai-Siang Ang, Julia Gong, and John Hewitt
 
+How should we evaluate the syntactic understanding of our NLP models? We build off of a body of work that uses minimal pair for evaluation and argue that we should be evaluating models' **likely behavior** and **systematicty**. We adapt minimal pair evaluation to address these goals, finding the models prefentially conjugate verbs they deem likely.
+
+Our publication is available [here](https://nlp.stanford.edu/pubs/newman2021refining.pdf).
+
 ## Getting Started
 
 To get started, set up your environment:
@@ -191,3 +195,13 @@ model:
 ## References
 1. Rebecca Marvin and Tal Linzen. 2018. [Targeted syntactic evaluation of language models](https://www.aclweb.org/anthology/D18-1151/). In _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_, pages 1192-1202, Brussels, Belgium. Association for Computational Linguistics.
 2. Alex Warstadt, Alicia Parrish, Haokun Liu, Anhad Mohananey, Wei Peng, Sheng-Fu Wang, and Samuel R. Bowman. 2020. [BLiMP: The benchmark of linguistic minimal pairs for English](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00321/96452/BLiMP-The-Benchmark-of-Linguistic-Minimal-Pairs). _Transactions of the Association for Computational Linguistics_, 8:377–392.
+
+## Citation
+```
+@inproceedings{newman2021refining,
+	title={Refining Targeted Syntactic Evaluation of Language Models},
+	author={Newman, Benjamin and Ang, Kai-Siang and Gong, Julia and Hewitt, John},
+	booktitle={Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)},
+	year={2021}
+}
+```
