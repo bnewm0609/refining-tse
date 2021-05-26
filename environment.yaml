@@ -14,3 +14,4 @@ dependencies:
   - pip:
     - transformers==4.4.1
     - matplotlib==3.4.0
+    - pdftotext==2.1.5

@@ -10,14 +10,18 @@ Our publication is available [here](https://nlp.stanford.edu/pubs/newman2021refi
 
 To get started, set up your environment:
 ```
-conda env create -f environment.yml
+conda env create -f environment.yaml
+conda activate refining-tse
+```
+Create the full verb list:
+```
+python scripts/create_combined_verb_list.py
 ```
 Run a small experiment:
 ```
 python run.py configs/bert-base-cased/ML_simple_agrmt/mw.yaml
 ```
-You should see results printed to the console, as well as some logs
-in the `results` folder.
+You should see the results in `results/bert-base-cased/ML_simple_agrmt/mw/custom_bert-base-cased_main/metrics/main.txt` in the `results` folder.
 
 To reproduce all the experiments from the paper:
 ```
@@ -125,7 +129,7 @@ the correct verb is singular.
 
 ### Verbs
 The verbs in `data/verbs/combined_verb_list.csv` are derived from COCA and the Penn Treebank. The rest of the verbs can be found [here](https://patternbasedwriting.com/1/Giant-Verb-List-3250-Verbs.pdf)
-and can be appended to the csv file.
+and can be appended to the `csv` file by running the command in the **Getting Started** section: `python scripts/create_combined_verb_list.py`. (Note that this only needs to be run once.)
 
 ## Custom Models
 
@@ -153,9 +157,9 @@ dataset:
   template_files:
   - simple_agrmt_all.jsonl                          # names of templates to evaluate
 experiment:
-  max_examples: null                                # controls number of examples to send to the model. Functions the same as dataset.max_examples_per_template 
+  max_examples: null                                # controls number of examples to send to the model. Functions the same as dataset.max_examples_per_template
 logger:
-  path: results/bert-base-cased/ML_simple_agrmt/mw 
+  path: results/bert-base-cased/ML_simple_agrmt/mw
   print_metrics_to_general_log: false               # prints individual metrics logging info to the general log in addition to metric-specific log
   print_to_stdout: false                            # prints log to STDOUT as well as log file
 metrics:
